@@ -1,8 +1,5 @@
 # Hi, I'm Jeannie! 👋
 
-I am an aspiring Full-Stack Developer.
-
-
 ## 🚀 About Me
 
 - 🔭 I'm currently working as a Junior Web Developer at [Commude PH](https://commude.ph/),
