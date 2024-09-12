@@ -3,7 +3,8 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working as a Junior Web Developer at [Commude PH](https://commude.ph/),
-- 🌱 I’m currently learning Ionic for cross-platform app development integrating laravel for api.  
+- 🌱 I’m currently learning Ionic for cross-platform app development integrating laravel for api.
+- 🖼 Outside of work, I do enjoy exploring museums and art galleries. I attend most of the art conventions inside Metro Manila.
 
 ## My Articles
 - [The How’s and What’s of VueJS](https://commude.ph/blog/the-hows-and-whats-of-vuejs/)
